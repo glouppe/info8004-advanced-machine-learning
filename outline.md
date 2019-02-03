@@ -83,8 +83,8 @@ More details to be announced later.
 
 # Evaluation
 
-- Exam (70%)
-- Reading and presentation assignment (30%)
+- Exam (60%)
+- Reading and presentation assignment (40%)
 
 ---
 
