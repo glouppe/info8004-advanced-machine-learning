@@ -67,14 +67,24 @@ Papers and slides are available at [github.com/glouppe/info8004-advanced-machine
 
 (Tentative and subject to change!)
 
-- Lecture 1: TBD.
+- Lecture 1: Pierre Geurts
+- Lecture 2: Gilles Louppe
+- Lecture 3: Antonio Sutera, Van Anh Huynh-Thu
+- Lecture 4: Pierre Geurts
+- Lecture 5: Gilles Louppe
+- Lecture 6: Romain Mormont, Joeri Hermans
+- Lecture 7: Matthia Sabatelli, Raphael Fontenau
+- Lecture 8: Student presentations 1
+- Lecture 9: Student presentations 2
+- Lecture 10: Student presentations 3
+
 
 ---
 
 # Reading and presentation assignment
 
 - Read a selected machine learning paper.
-- Prepare a 1-hour lecture, covering the necessary background and discussing the paper.
+- Prepare a 40-minute lecture, covering the necessary background and discussing the paper.
 - Short summary report.
 
 More details to be announced later.
