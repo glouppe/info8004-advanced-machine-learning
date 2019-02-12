@@ -3,7 +3,7 @@
 Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
 
 - Instructors:  Pierre Geurts ([p.geurts@uliege.be](mailto:g.louppe@uliege.be)), Gilles Louppe ([g.louppe@uliege.be](mailto:g.louppe@uliege.be))
-- When: Spring 2019, Thursday 9:00AM.
+- When: Spring 2019, Thursday 9:00AM
 - Classroom: [B28/R7](https://www.campus.uliege.be/cms/c_5119631/fr/r7-montefiore)
 
 ## Slides

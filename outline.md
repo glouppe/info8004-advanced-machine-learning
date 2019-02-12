@@ -53,13 +53,18 @@ This course is given by:
     - discuss and criticize its content.
 - Goal: training for research and development in machine learning.
 
+.center.width-70[![](figures/outline/phd011108s.gif)]
+
+.footnote[Credits: Jorge Cham, [PHD Comics](http://phdcomics.com/comics/archive.php?comicid=963).]
+
 ---
 
 # Materials
 
 Papers and slides are available at [github.com/glouppe/info8004-advanced-machine-learning](https://github.com/glouppe/info8004-advanced-machine-learning).
 - In HTML and in PDFs.
-- Posted online the day before the lesson (hopefully).
+- Slides posted online the day before the lesson (hopefully).
+- Papers announced ~1 week before the lectures.
 
 ---
 
