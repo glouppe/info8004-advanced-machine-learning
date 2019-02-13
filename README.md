@@ -14,7 +14,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
 - Lecture 1 (February 14): Pierre Geurts<br>
   **Paper**: Yarin Gal and Zoubin Ghahramani, _Dropout as a Bayesian approximation: Representing model uncertainty in deep learning_, 2015 [[PDF](http://proceedings.mlr.press/v48/gal16.pdf)]
 - Lecture 2 (February 21): Gilles Louppe<br>
-  **Paper**: Marta Garnelo et al, _Neural Processes_, 2018 [[PDF](https://arxiv.org/abs/1807.01622)]
+  **Paper**: Marta Garnelo et al, _Conditional Neural Processes_, 2018 [[PDF](https://arxiv.org/abs/1807.01613)]
 - Lecture 3 (February 28): Antonio Sutera, Van Anh Huynh-Thu
 - Lecture 4 (March 7): Pierre Geurts
 - Lecture 5 (March 14): Gilles Louppe
