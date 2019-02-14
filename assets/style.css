@@ -42,6 +42,10 @@ body {
     font-weight: bold;
 }
 
+.huge {
+    font-size: 10em;
+}
+
 .remark-container {
     background: #ddd;
 }
