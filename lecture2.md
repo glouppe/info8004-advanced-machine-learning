@@ -14,6 +14,8 @@ Prof. Gilles Louppe<br>
 
 https://vimeo.com/312299226
 
+add more illustrations for why we want to obtain a probability distribution -> uncertainty
+
 ---
 
 # Supervised learning
@@ -100,7 +102,7 @@ Let us define a *stochastic process* as a random function $$f: \mathcal{X} \to \
 such that for each finite sequence $\mathbf{x}\_{1:N} = (\mathbf{x}\_1, \ldots, \mathbf{x}\_N)$, with $\mathbf{x}\_i \in \mathcal{X}$, we define the marginal joint distribution over function values
 $$Y\_{1:N} := (f(\mathbf{x}\_1), \ldots, f(\mathbf{x}\_N)).$$
 
-$\Rightarrow$ When these joint distributions are all multivariate Gaussians, the resulting stochastic process is called a **Gaussian process**.
+$\Rightarrow$ When these joint distributions are all defined as multivariate Gaussians, the resulting stochastic process is called a **Gaussian process**.
 
 ---
 
@@ -245,6 +247,20 @@ class: middle
 
 class: middle
 
+.center.width-50[![](figures/lec2/mauna.svg)]
+
+$$\begin{aligned}
+k = &\,\, 66^2 \text{RBF}(\ell=67) \\\\
+    &+ 2.4^2 \text{RBF}(\ell=90) \times \text{ExpSineSquared}(\ell=1.3) \\\\
+    &+ 0.66^2 \text{RationalQuadratic}(\ell=2, \alpha=0.78) \\\\
+    &+ 0.18^2 \text{RBF}(\ell=0.134) \\\\
+    &+ \text{WhiteKernel}()
+\end{aligned}$$
+
+---
+
+class: middle
+
 ## Hyper-parameters
 
 - So far we have assumed that the Gaussian process prior $p(\mathbf{f})$ was specified a priori.
@@ -293,6 +309,10 @@ $$\begin{bmatrix}\mathbf{f}\_A\\\\
 which results in the posterior
 $$\mathbf{f}\_A \sim \mathcal{N}\big(K\_{AB}[K\_{BB} + \sigma^2\_N I]^{-1}{\mathbf{f}\_B}, K\_{AA} - K\_{AB}[K\_{BB} + \sigma^2\_N I]^{-1}K\_{BA}\big).$$
 
+???
+
+Equivalent to say we observe realizations of a random function.
+
 ---
 
 class: middle
@@ -318,50 +338,212 @@ class: middle
 
 class: middle
 
-.width-100.center[![](figures/lec2/paper.png)]
+## How do I read a paper?
+
+1. Read title, abstract and conclusions (what is this about?).
+2. Hop to the main figures.
+3. If that looks interesting, I dive into the technical details:
+    - Understand the method
+    - Read through the experiments (do they support the claims?)
 
 ---
 
-how to read a paper?
+class: middle
+
+.width-60.center[![](figures/lec2/abstract.png)]
 
 ---
 
-Given a collection of joint distributions $\rho\_{x\_{1:N}}$, two conditions are necessary to be able to define a stochastic process $f$, such that $\rho\_{x\_{1:N}}$ is the marginal distributions of $(f(x\_1), \ldots, f(x\_N))$, for each finite sequence $x\_{1:N}$:
+class: middle
 
-- *Exchangeability*:
-- *Consistency*:
+.width-60.center[![](figures/lec2/discussion.png)]
 
 ---
 
-cnp architecture
+# Conditional neural process
+
+A Conditional Neural Process (CNP) is a conditional distribution over functions trained to model the empirical conditional distributions of functions $f \sim P$.
+
+
+---
+
+class: middle
+
+.center.width-60[![](figures/lec2/cnp.png)]
+
+A Conditional Neural Process
+- embeds each observation through a neural **encoder** $h$, that takes pairs of $(x\_i,y\_i)$ context values and produces a representation $r\_i = h((x\_i,y\_i))$ for each of the pairs;
+- aggregates these embeddings $r\_i$ into a further embedding $r$ of fixed dimension with a symmetric *aggregator* $a$,
+- and produces through a neural **decoder** $g$ distributions for $f(x\_T)$ at the target points $x\_T$, conditioned on the embedding $r$.
+
+.footnote[Credits: Marta Garnelo et al., arXiv:[1807.01613](https://arxiv.org/abs/1807.01613).]
+
+---
+
+class: middle
+
+Specifically, given a set of observations $O$, a CNP defines a conditional stochastic process $Q\_\theta$ that defines distributions over $f(x)$ for targets $x\in T$. Permutation invariance w.r.t. $T$ is enforced by assuming a factored structure such that
+$$Q\_\theta(f(T)|O,T) = \prod\_{x\in T} Q\_\theta(f(x)|O,x).$$
+
+Then,
+$$
+\begin{aligned}
+r\_i &= h\_\theta(x\_i, y\_i)  &\forall (x\_i,y\_i) \in O \\\\
+r &= (r\_1 + ... + r\_n) / n   & \\\\
+\phi\_j &= g\_\theta(x\_j, r)    &\forall x\_j \in T
+\end{aligned}
+$$
+where $\phi\_j$ are parameters for $Q\_\theta(f(x\_j)|O, x\_j) = Q\_\theta(f(x\_j)|\phi\_j)$.
+- For regression tasks, $\phi\_j$ parameterizes the mean and the variance $\phi\_j=(\mu\_j, \sigma\_j^2)$ of a Gaussian distribution.
+- For classification tasks, $\phi\_j$ parameterizes the logits of the class probabilities $p\_c$ over the classes of a categorical distribution.
+
+---
+
+class: middle
+
+## Exchangeability
+
+A CNP is permutation invariant in observations and targets.
+- For observations, permutation invariance is guaranteed through the symmetric aggregator.
+- For targets, permutation invariance is guaranteed through the factored structure of $Q\_\theta$.
+
+---
+
+class: middle
+
+## Consistency
+
+If we marginalise out a part of the sequence the resulting marginal distribution is the same as that defined as that defined on the original sequence.
+
+More precisely, if $1 \leq m \leq n$, then
+$$Q\_\theta(\\\{y\_i\\\}\_{i=0}^{m-1}|O) = \int Q\_\theta(\\\{y\_i\\\}\_{i=0}^{n-1}|O) d\_{y\_{m:n-1}}.$$
+
+For regression, this property is guaranteed by construction, as $Q\_\theta$ is defined as a Gaussian.
+
+---
+
+class: middle
+
+As stated by the Kolmogorov Extension Theorem, exchangeability and consistency are *sufficient conditions* to a define a stochastic process.
+
+Therefore, CNPs are stochastic processes, just like GPs.
+
+---
+
+class: middle
+
+## Time complexity
+
+A CNP is scalable, achieving running time complexity of $O(n+m)$, for making $m$ predictions with $n$ observations.
+
+---
+
+class: middle
+
+## Training
+
+Let $f\sim P$, $O = \\\{(x\_i, y\_i)\\\}\_{i=0}^{n-1}$, $N \sim \mathcal{U}[0, ..., n-1]$ and $O\_N = \\\{(x\_i, y\_i)\\\}\_{i=0}^{N} \subset O$.
+
+The training objective is then given by
+$$\mathcal{L}(\theta) = -\mathbb{E}\_{f\sim P} \left[ \mathbb{E}\_N \left[ \log Q\_\theta(\\\{y\_i\\\}\_{i=0}^{n-1} | O\_N, \\\{x\_i\\\}\_{i=0}^{n-1} \right] \right].$$
+
+That is, $Q\_\theta$ is trained by asking it to predict $O$ conditioned on a randomly chosen subset of $O$.
+
+---
+
+class: middle
+
+.width-60.center[![](figures/lec2/comment.png)]
+
+---
+
+class: middle
+
+## Experiment 1: 1D regression
+
+.grid[
+.kol-1-2[.width-100.center[![](figures/lec2/exp1a.png)]]
+.kol-1-2[.width-80.center[![](figures/lec2/exp1b.png)]]
+]
+
+---
+
+class: middle
+
+## Experiment 2: Image completion
+
+.width-50.center[![](figures/lec2/exp2a.png)]
+
+---
+
+class: middle
+
+.width-100.center[![](figures/lec2/exp2b.png)]
+
+---
+
+class: middle, center
+
+.width-60.center[![](figures/lec2/exp2c.png)]
+
+**!!!**
+
+---
+
+class: middle
+
+## Experiment 3: One-shot learning
+
+.width-50.center[![](figures/lec2/exp3.png)]
+
+---
+
+class: middle, center
+
+What do you think?
+
+Do the experiments support the claims
 
 ???
 
-as Yee Whye mentioned the other day, we can put prior knowledge into our model by choosing the data and training regime and letting the model learn these priors from the data rather than giving it a handcrafted kernel.
+- Shift the burden of imposing prior knowledge from analytic prior to empirical data.
+=> Partly shown from Figure 2. Would have been nice to see another easy example, such as Mauna Loa.
 
 ---
 
-training
+# Neural Processes
+
+<br>
+
+.width-60.center[![](figures/lec2/np.png)]
+.width-80.center[![](figures/lec2/cnp-np.png)]
+
+.footnote[Credits: Marta Garnelo et al., arXiv:[1807.01622](https://arxiv.org/abs/1807.01622).]
 
 ---
 
-exp1
+class: middle
+
+.width-100.center[![](figures/lec2/np-exp.png)]
 
 ---
 
-exp2
+# Generative Query Networks
+
+.width-60.center[![](figures/lec2/gqn.png)]
 
 ---
 
-exp3
+class: middle, center, black-slide
+
+<iframe width="600" height="450" src="https://www.youtube.com/embed/oSZkDuDoFAI" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
-extension1 np (allow better sampling), latent variable model
+class: middle, center, black-slide
 
----
-
-extension2 attentive np
+<iframe width="600" height="450" src="https://www.youtube.com/embed/G-kWNQJ4idw" frameborder="0" allowfullscreen></iframe>
 
 ---
 

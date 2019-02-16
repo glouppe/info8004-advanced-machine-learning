@@ -16,7 +16,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
     - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec1.pdf)]
 - Lecture 2 (February 21): Gilles Louppe
     - **Paper**: Marta Garnelo et al, _"Conditional Neural Processes"_, 2018 [[PDF](https://arxiv.org/abs/1807.01613)]
-    - **Slides**: [HTML], [PDF]
+    - **Slides**: [[HTML](https://glouppe.github.io/info8004-advanced-machine-learning/?p=lecture2.md)], [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec2.pdf)]
 - Lecture 3 (February 28): Antonio Sutera, Van Anh Huynh-Thu
 - Lecture 4 (March 7): Pierre Geurts
 - Lecture 5 (March 14): Gilles Louppe
