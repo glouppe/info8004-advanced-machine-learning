@@ -413,7 +413,7 @@ class: middle
 
 ## Consistency
 
-If we marginalise out a part of the sequence the resulting marginal distribution is the same as that defined as that defined on the original sequence.
+If we marginalise out a part of the sequence the resulting marginal distribution is the same as that defined on the original sequence.
 
 More precisely, if $1 \leq m \leq n$, then
 $$Q\_\theta(\\\{y\_i\\\}\_{i=0}^{m-1}|O) = \int Q\_\theta(\\\{y\_i\\\}\_{i=0}^{n-1}|O) d\_{y\_{m:n-1}}.$$

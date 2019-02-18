@@ -17,7 +17,13 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
 - Lecture 2 (February 21): Gilles Louppe
     - **Paper**: Marta Garnelo et al, _"Conditional Neural Processes"_, 2018 [[PDF](https://arxiv.org/abs/1807.01613)]
     - **Slides**: [[HTML](https://glouppe.github.io/info8004-advanced-machine-learning/?p=lecture2.md)], [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec2.pdf)]
-- Lecture 3 (February 28): Antonio Sutera, Van Anh Huynh-Thu
+- Lecture 3 (February 28):
+    - Antonio Sutera
+        - **Paper**: Robin Genuer et al, "Variable selection using random forests", 2010 [[PDF](https://www.sciencedirect.com/science/article/pii/S0167865510000954)]
+        - **Slides**: [PDF]
+    - Van Anh Huynh-Thu
+        - **Paper**: Van Anh Huynh-Thu and Guido Sanguinetti, "Combining tree-based and dynamical systems for the inference of gene regulatory networks", 2015 [[PDF](https://academic.oup.com/bioinformatics/article/31/10/1614/176842)]
+        - **Slides**: [PDF]
 - Lecture 4 (March 7): Pierre Geurts
 - Lecture 5 (March 14): Gilles Louppe
 - Lecture 6 (March 21): Romain Mormont, Joeri Hermans
