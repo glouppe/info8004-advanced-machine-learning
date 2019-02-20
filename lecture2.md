@@ -4,7 +4,8 @@ class: middle, center, title-slide
 
 Lecture 2
 
-.bold[Paper]: Marta Garnelo et al., .italic[Conditional neural processes], 2018.
+.bold[Paper]: Marta Garnelo et al., .italic[Conditional neural processes],<br>
+in International Conference on Machine Learning 2018. [[Code](https://github.com/deepmind/neural-processes)]
 
 <br><br>
 Prof. Gilles Louppe<br>
@@ -325,7 +326,7 @@ class: middle
 
 - Gaussian processes $=$ multivariate Gaussian in infinite dimension.
 - Prior knowledge about $f$ is captured in the distributional assumptions about the process prior. For example, assumptions on the smoothness of $f$ is captured a priori via a parametric kernel function.
-- Learning corresponds to Bayesian inference over the functional space conditioned on observations, and $g$ is taken to be a random function distributed according to the predictive posterior distribution.
+- Learning corresponds to posterior inference over the functional space conditioned on observations, and $g$ is taken to be a random function distributed according to the predictive posterior distribution.
 - Exact inference does not scale to many observations ($O(N^3)$).
 
 ---
@@ -383,7 +384,7 @@ A Conditional Neural Process
 class: middle
 
 Specifically, given a set of observations $O$, a CNP defines a conditional stochastic process $Q\_\theta$ that defines distributions over $f(x)$ for targets $x\in T$. Permutation invariance w.r.t. $T$ is enforced by assuming a factored structure such that
-$$Q\_\theta(f(T)|O,T) = \prod\_{x\in T} Q\_\theta(f(x)|O,x).$$
+$$Q\_\theta(f(T)|O,T) = \prod\_{x\_j \in T} Q\_\theta(f(x\_j)|O,x\_j).$$
 
 Then,
 $$
@@ -502,7 +503,7 @@ class: middle, center
 
 What do you think?
 
-Do the experiments support the claims
+Do the experiments support the claims?
 
 ???
 
