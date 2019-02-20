@@ -27,10 +27,11 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
 - Lecture 4 (March 7): Pierre Geurts
 - Lecture 5 (March 14): Gilles Louppe
 - Lecture 6 (March 21): Romain Mormont, Joeri Hermans
-- Lecture 7 (March 28): Matthia Sabatelli, Raphael Fontenau
-- Lecture 8 (April 25): Student presentations 1
-- Lecture 9 (May 2): Student presentations 2
-- Lecture 10 (May 9): Student presentations 3
+- Lecture 7 (March 28): Matthia Sabatelli
+- Lecture 8 (April 5): Raphael Fonteneau
+- Lecture 9 (April 25): Student presentations 1
+- Lecture 10 (May 2): Student presentations 2
+- Lecture 11 (May 9): Student presentations 3
 
 ## Reading and presentation assignment
 
