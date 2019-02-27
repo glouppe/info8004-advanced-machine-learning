@@ -20,10 +20,10 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
 - Lecture 3 (February 28):
     - Antonio Sutera
         - **Paper**: Robin Genuer et al, "Variable selection using random forests", 2010 [[PDF](https://www.sciencedirect.com/science/article/pii/S0167865510000954)]
-        - **Slides**: [PDF]
+        - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec3-antonio.pdf)]
     - Van Anh Huynh-Thu
         - **Paper**: Van Anh Huynh-Thu and Guido Sanguinetti, "Combining tree-based and dynamical systems for the inference of gene regulatory networks", 2015 [[PDF](https://academic.oup.com/bioinformatics/article/31/10/1614/176842)]
-        - **Slides**: [PDF]
+        - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec3-vananh.pdf)]
 - Lecture 4 (March 7): Pierre Geurts
 - Lecture 5 (March 14): Gilles Louppe
 - Lecture 6 (March 21): Romain Mormont, Joeri Hermans
