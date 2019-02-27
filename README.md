@@ -35,7 +35,50 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
 
 ## Reading and presentation assignment
 
-TBD.
+A paper from the following list will be assigned to each one of the group on February 28.
+
+- David Ha and Jürgen Schmidhuber, "World Models", 2018.
+[[Paper](https://arxiv.org/abs/1803.10122)]
+- BM Lake et al, "Human-level concept learning through probabilistic Induction", 2018.
+[[Paper](https://www.ncbi.nlm.nih.gov/pubmed/26659050)] [[Follow-up paper](https://cims.nyu.edu/~brenden/1902.03477.pdf)]
+- Ilya Loshchilov and Frank Hutter, "Decoupled weight decay regularization", 2019.
+[[Paper](https://arxiv.org/abs/1711.05101)]
+- Shibani Santurkar et al, "How Does Batch Normalization Help Optimization?", 2018.
+[[Paper](http://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization.pdf)]
+- Naftali Tishby and Noga Zavlasky, "Deep Learning and the Information Bottleneck Principle", 2015.
+[[Paper](https://arxiv.org/abs/1503.02406)]
+- AM Saxe et al, "On the Information Bottleneck Theory of Deep Learning", 2018.
+[[Paper](https://openreview.net/forum?id=ry_WPG-A-)]
+- Gao Huang et al, "Densely Connected Convolutional Networks", 2016.
+[[Paper](https://arxiv.org/abs/1608.06993)]
+- Geoffrey Hinton et al, "Distilling the Knowledge in a Neural Network", 2015.
+[[Paper](https://arxiv.org/pdf/1503.02531.pdf)]
+- Alec Radford et al, "Language Models are Unsupervised Multitask Learners", 2019.
+[[Paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)]
+- Tero Karras et al, "A Style-Based Generator Architecture for Generative Adversarial Networks", 2018.
+[[Paper](https://arxiv.org/abs/1812.04948)]
+- LG Valiant, "A theory of the learnable", 1984.
+[[Paper](http://www.montefiore.ulg.ac.be/~geurts/Cours/AML/Readings/Valiant.pdf)]
+- Guillaume Lample et al, "Phrase-Based & Neural Unsupervised Machine Translation", 2018.
+[[Paper](https://arxiv.org/abs/1804.07755)]
+- Bobak Shahriari et al, "Taking the human out of the loop bayesian optimization", 2016.
+[[Paper](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)]
+- Nicolas Courty et al, "Optimal transport domain adaptation", 2015.
+[[Paper](https://arxiv.org/pdf/1507.00504.pdf)]
+- Pang Wei Koh and Percy Liang, "Understanding black-box predictions via influence functions", 2017.
+[[Paper](https://arxiv.org/pdf/1703.04730.pdf)]
+- Corinna Cortes et al. "AdaNet: Adaptive Structural Learning of Artificial Neural Networks", 2016.
+[[Paper](https://arxiv.org/pdf/1607.01097.pdf)]
+- Tianqi Chen et al. "XGBoost: a scalable Tree Boosting System", 2016.
+[[Paper](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)]
+- Balaji Lakshminarayanan et al., "Mondrian forests: efficient online random forests", 2014.
+[[Paper 1](https://arxiv.org/abs/1406.2673)]
+[[Paper 2](https://arxiv.org/abs/1506.03805)]
+- Theodoros Evgeniou et al. "Learning multiple tasks with kernel methods", 2005.
+[[Paper](http://www.jmlr.org/papers/volume6/evgeniou05a/evgeniou05a.pdf)]
+- William H. Beluch et al. "The power of ensembles for active learning in image classification", 2018.
+[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf)]
+
 
 ## Exam
 
