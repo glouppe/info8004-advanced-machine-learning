@@ -35,7 +35,9 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
 
 ## Reading and presentation assignment
 
-A paper from the following list will be assigned to each one of the group on February 28.
+The assignment of papers to groups can be found [here](https://github.com/glouppe/info8004-advanced-machine-learning/blob/master/readings.ipynb).
+
+Papers:
 
 - David Ha and Jürgen Schmidhuber, "World Models", 2018.
 [[Paper](https://arxiv.org/abs/1803.10122)]
