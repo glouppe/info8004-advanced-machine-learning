@@ -19,12 +19,14 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
     - **Slides**: [[HTML](https://glouppe.github.io/info8004-advanced-machine-learning/?p=lecture2.md)], [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec2.pdf)]
 - Lecture 3 (February 28):
     - Antonio Sutera
-        - **Paper**: Robin Genuer et al, "Variable selection using random forests", 2010 [[PDF](https://www.sciencedirect.com/science/article/pii/S0167865510000954)]
+        - **Paper**: Robin Genuer et al, _"Variable selection using random forests"_, 2010 [[PDF](https://www.sciencedirect.com/science/article/pii/S0167865510000954)]
         - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec3-antonio.pdf)]
     - Van Anh Huynh-Thu
-        - **Paper**: Van Anh Huynh-Thu and Guido Sanguinetti, "Combining tree-based and dynamical systems for the inference of gene regulatory networks", 2015 [[PDF](https://academic.oup.com/bioinformatics/article/31/10/1614/176842)]
+        - **Paper**: Van Anh Huynh-Thu and Guido Sanguinetti, _"Combining tree-based and dynamical systems for the inference of gene regulatory networks"_, 2015 [[PDF](https://academic.oup.com/bioinformatics/article/31/10/1614/176842)]
         - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec3-vananh.pdf)]
 - Lecture 4 (March 7): Pierre Geurts
+    - **Paper**: Yaroslav Ganin et al, _"Domain-Adversarial Training of Neural Networks"_, 2016 [[PDF](http://jmlr.org/papers/v17/15-239.html)]
+    - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec4.pdf)]
 - Lecture 5 (March 14): Gilles Louppe
 - Lecture 6 (March 21): Romain Mormont, Joeri Hermans
 - Lecture 7 (March 28): Matthia Sabatelli
