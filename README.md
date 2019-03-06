@@ -83,6 +83,12 @@ Papers:
 - William H. Beluch et al. "The power of ensembles for active learning in image classification", 2018.
 [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf)]
 
+Deliverables:
+- a 40-minute lecture on the paper and its necessary background.
+- a summary report (4 pages max) summarizing the problem, the contribution of the paper and a critical discussion.
+
+Slides and reports should be submitted on the [Montefiore submission platform](https://submit.montefiore.ulg.ac.be/) by April 22, 2019 23:59.
+
 
 ## Exam
 
