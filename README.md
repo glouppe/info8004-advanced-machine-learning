@@ -28,9 +28,11 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
     - **Paper**: Yaroslav Ganin et al, _"Domain-Adversarial Training of Neural Networks"_, 2016 [[PDF](http://jmlr.org/papers/v17/15-239.html)]
     - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec4.pdf)]
 - Lecture 5 (March 14): Gilles Louppe
-- Lecture 6 (March 21): Romain Mormont, Joeri Hermans
+    - **Paper**: Gilles Louppe et al, _"Adversarial Variational Optimization of Non-Differentiable Simulators"_, 2019 [[PDF](https://arxiv.org/abs/1707.07113)]
+    - **Slides**: [PDF]
+- Lecture 6 (March 21): Romain Mormont
 - Lecture 7 (March 28): Matthia Sabatelli
-- Lecture 8 (April 5): Raphael Fonteneau
+- Lecture 8 (April 5): Joeri Hermans, Raphael Fonteneau
 - Lecture 9 (April 25): Student presentations 1
 - Lecture 10 (May 2): Student presentations 2
 - Lecture 11 (May 9): Student presentations 3
