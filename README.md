@@ -29,7 +29,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
     - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec4.pdf)]
 - Lecture 5 (March 14): Gilles Louppe
     - **Paper**: Gilles Louppe et al, _"Adversarial Variational Optimization of Non-Differentiable Simulators"_, 2019 [[PDF](https://arxiv.org/abs/1707.07113)]
-    - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec5.pdf)]
+    - **Slides**: [[HTML](https://glouppe.github.io/info8004-advanced-machine-learning/?p=lecture5.md)], [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec5.pdf)]
 - Lecture 6 (March 21): Romain Mormont
 - Lecture 7 (March 28): Matthia Sabatelli
 - Lecture 8 (April 5): Joeri Hermans, Raphael Fonteneau
