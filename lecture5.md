@@ -663,3 +663,11 @@ class: end-slide, center
 count: false
 
 The end.
+
+---
+
+count: false
+
+# ABC
+
+.center.width-70[![](figures/lec5/abc.png)]
