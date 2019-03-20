@@ -32,7 +32,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
     - **Slides**: [[HTML](https://glouppe.github.io/info8004-advanced-machine-learning/?p=lecture5.md)], [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec5.pdf)]
 - Lecture 6 (March 21): Romain Mormont
     - **Paper**: Zhizhong Li and Derek Hoiem _"Learning without Forgetting"_, 2016 [[PDF](https://arxiv.org/abs/1606.09282)]
-    - **Slides**: [PDF]
+    - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec6.pdf)]
 - Lecture 7 (March 28): Matthia Sabatelli
 - Lecture 8 (April 5): Joeri Hermans, Raphael Fonteneau
 - Lecture 9 (April 25): Student presentations 1
