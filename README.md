@@ -34,6 +34,11 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
     - **Paper**: Zhizhong Li and Derek Hoiem _"Learning without Forgetting"_, 2016 [[PDF](https://arxiv.org/abs/1606.09282)]
     - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec6.pdf)]
 - Lecture 7 (March 28): Matthia Sabatelli
+    - **Papers**: (i) Richard Sutton, _"Learning to predict by the methods of temporal differences"_, 1988 [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.7760&rep=rep1&type=pdf)];
+    (ii) Mnih et al, _"Human level control through Deep Reinforcement Learning"_, 2015 [[PDF](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)];
+    (iii) Sabatelli et al, _"
+Deep Quality-Value (DQV) Learning"_, 2018 [[PDF](https://arxiv.org/abs/1810.00368)]
+    - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec7.pdf)]
 - Lecture 8 (April 5): Joeri Hermans, Raphael Fonteneau
 - Lecture 9 (April 25): Student presentations 1
 - Lecture 10 (May 2): Student presentations 2
