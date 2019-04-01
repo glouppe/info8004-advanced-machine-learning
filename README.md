@@ -31,7 +31,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
     - **Paper**: Gilles Louppe et al, _"Adversarial Variational Optimization of Non-Differentiable Simulators"_, 2019 [[PDF](https://arxiv.org/abs/1707.07113)]
     - **Slides**: [[HTML](https://glouppe.github.io/info8004-advanced-machine-learning/?p=lecture5.md)], [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec5.pdf)]
 - Lecture 6 (March 21): Romain Mormont
-    - **Paper**: Zhizhong Li and Derek Hoiem _"Learning without Forgetting"_, 2016 [[PDF](https://arxiv.org/abs/1606.09282)]
+    - **Paper**: Zhizhong Li and Derek Hoiem, _"Learning without Forgetting"_, 2016 [[PDF](https://arxiv.org/abs/1606.09282)]
     - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec6.pdf)]
 - Lecture 7 (March 28): Matthia Sabatelli
     - **Papers**: (i) Richard Sutton, _"Learning to predict by the methods of temporal differences"_, 1988 [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.7760&rep=rep1&type=pdf)];
@@ -39,7 +39,13 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2019.
     (iii) Sabatelli et al, _"
 Deep Quality-Value (DQV) Learning"_, 2018 [[PDF](https://arxiv.org/abs/1810.00368)]
     - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec7.pdf)]
-- Lecture 8 (April 5): Joeri Hermans, Raphael Fonteneau
+- Lecture 8 (April 5):
+    - Joeri Hermans
+        - **Paper**: Will Grathwohl et al, _"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models"_, 2018 [[PDF](https://arxiv.org/abs/1810.01367)]
+        - **Slides**: [PDF]
+    - Raphael Fonteneau
+        - **Paper**: TBD.
+        - **Slides**: [PDF]
 - Lecture 9 (April 25): Student presentations 1
 - Lecture 10 (May 2): Student presentations 2
 - Lecture 11 (May 9): Student presentations 3
