@@ -44,8 +44,8 @@ Deep Quality-Value (DQV) Learning"_, 2018 [[PDF](https://arxiv.org/abs/1810.0036
         - **Paper**: Will Grathwohl et al, _"FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models"_, 2018 [[PDF](https://arxiv.org/abs/1810.01367)]
         - **Slides**: [PDF]
     - Raphael Fonteneau
-        - **Paper**: TBD.
-        - **Slides**: [PDF]
+        - **Paper**: Raphael Fonteneau et al, _"Model-Free Monte Carlo–like Policy Evaluation"_, 2010 [[PDF](http://proceedings.mlr.press/v9/fonteneau10a/fonteneau10a.pdf)]
+        - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec8-raphael.pdf)]
 - Lecture 9 (April 25): Student presentations 1
 - Lecture 10 (May 2): Student presentations 2
 - Lecture 11 (May 9): Student presentations 3
