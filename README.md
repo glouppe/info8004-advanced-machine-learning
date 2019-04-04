@@ -45,10 +45,35 @@ Deep Quality-Value (DQV) Learning"_, 2018 [[PDF](https://arxiv.org/abs/1810.0036
         - **Slides**: [[HTML](https://joerihermans.com/talks/ffjord)], [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec8-joeri.pdf)]
     - Raphael Fonteneau
         - **Paper**: Raphael Fonteneau et al, _"Model-Free Monte Carlo–like Policy Evaluation"_, 2010 [[PDF](http://proceedings.mlr.press/v9/fonteneau10a/fonteneau10a.pdf)]
-        - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec8-raphael.pdf)]
+        - **Slides**: [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lec8-raphael.pdf)]    
 - Lecture 9 (April 25): Student presentations 1
+    - Cyril Geortay, Maxime Vandegar
+        - Ilya Loshchilov and Frank Hutter, "Decoupled weight decay regularization", 2019.
+    - Maxime Aerts, Arnaud Fombellida
+        - Gao Huang et al, "Densely Connected Convolutional Networks", 2016.
+    - Aurélien Werenne, Eduardo Varas Gandara
+        - Naftali Tishby and Noga Zavlasky, "Deep Learning and the Information Bottleneck Principle", 2015.
+    - Aubry Julie, Minh Cedric Schils
+        - AM Saxe et al, "On the Information Bottleneck Theory of Deep Learning", 2018.
 - Lecture 10 (May 2): Student presentations 2
+    - Sacha Catherine, Joachim Roekens
+        - Corinna Cortes et al. "AdaNet: Adaptive Structural Learning of Artificial Neural Networks", 2016.
+    - Maxime Lamborelle, Thibault Renaud
+        - Alec Radford et al, "Language Models are Unsupervised Multitask Learners", 2019.
+    - Seron Damien, Arnaud Delaunoy
+        - Geoffrey Hinton et al, "Distilling the Knowledge in a Neural Network", 2015.
+    - Bolland Adrien, François Cornet
+        - Bobak Shahriari et al, Taking the human out of the loop bayesian optimization, 2016.
 - Lecture 11 (May 9): Student presentations 3
+    - Romain Bajoit, Nicolas Bajoit
+        - Tianqi Chen et al. "XGBoost: a scalable Tree Boosting System", 2016.
+    - Lionel Mathy, Pierre-Loup Nicolas
+        - William H. Beluch et al. "The power of ensembles for active learning in image classification", 2018.
+    - Julien De Cooman, Alexandre Lhoest
+        - Shibani Santurkar et al, "How Does Batch Normalization Help Optimization?", 2018.
+    - Tom Crasset, Antoine Louis
+        - BM Lake et al, "Human-level concept learning through probabilistic Induction", 2018.
+
 
 ## Reading and presentation assignment
 
