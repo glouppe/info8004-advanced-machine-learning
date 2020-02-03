@@ -64,22 +64,31 @@ class: middle
 
 .center.width-100[![](figures/outline/phd011108s.gif)]
 
+.center[Read the papers!]
+
 .footnote[Credits: Jorge Cham, [PHD Comics](http://phdcomics.com/comics/archive.php?comicid=963).]
+
+---
+
+# Seminars
+
+A couple of lectures will be organized as seminars:
+- either with invited speakers
+- or with recorded talks, followed by a discussion.
 
 ---
 
 # Materials
 
 Papers and slides are available at [github.com/glouppe/info8004-advanced-machine-learning](https://github.com/glouppe/info8004-advanced-machine-learning).
-- In HTML and in PDFs.
 - Slides posted online the day before the lesson (hopefully).
 - Papers announced ~1 week before the lectures.
 
 ---
 
-# Outline
+# Agenda
 
-Check the Github page!
+See the course [web page](https://github.com/glouppe/info8004-advanced-machine-learning) (tentative and subject to change).
 
 ---
 

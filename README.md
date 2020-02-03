@@ -10,7 +10,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2020.
 
 | Date | Topic |
 | --- | --- |
-| February 6 | Outline [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/outline.pdf)]<br>_"Conditional neural processes"_ [[link](https://arxiv.org/abs/1807.01613)], Marta Garnelo et al, 2018.<br> Talk by Gilles Louppe [slides]. |
+| February 6 | Outline [[PDF](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/outline.pdf)]<br>Lecture 1: Gaussian and neural processes<br>- Paper: _"Conditional neural processes"_, Marta Garnelo et al, 2018 [[link](https://arxiv.org/abs/1807.01613)]<br>- Talk by Gilles Louppe [slides] |
 | February 13 | TBD |
 | February 20 | TBD |
 | February 27 | TBD |
