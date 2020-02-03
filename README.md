@@ -10,10 +10,10 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2020.
 
 | Date | Topic |
 | --- | --- |
-| February 6 | Outline [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/outline.pdf)]<br>Lecture 1: Gaussian and neural processes<br>- Paper: _"Conditional neural processes"_, Marta Garnelo et al, 2018 [[link](https://arxiv.org/abs/1807.01613)]<br>- Talk by Gilles Louppe [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-gnp.pdf)] |
-| February 13 | Lecture 2: Statistical learning theory<br>- Tutorial & discussion: _"Statistical Learning Theory - a Hitchhiker's Guide"_, John Shawe-Taylor and Omar Rivasplata, NeurIPS 2018 [[link](https://www.youtube.com/watch?v=m8PLzDmW-TY)].<br>- Additional resources: _"An introduction to Statistical Learning Theory"_, Louis Wehenkel [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-intro-slt.pdf)]; _"Statistical Learning Theory: A Primer"_, Louis Wehenkel [[notes](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-primer.pdf)] |
-| February 20 | TBD |
-| February 27 | TBD |
+| February&nbsp;6 | Outline [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/outline.pdf)]<br>Lecture 1: Gaussian and neural processes<br>- Paper: _"Conditional neural processes"_, Marta Garnelo et al, 2018 [[link](https://arxiv.org/abs/1807.01613)]<br>- Talk by Gilles Louppe [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-gnp.pdf)] |
+| February&nbsp;13 | Lecture 2: Statistical learning theory<br>- Tutorial & discussion: _"Statistical Learning Theory - a Hitchhiker's Guide"_, John Shawe-Taylor and Omar Rivasplata, NeurIPS 2018 [[link](https://www.youtube.com/watch?v=m8PLzDmW-TY)].<br>- Additional resources: _"An introduction to Statistical Learning Theory"_, Louis Wehenkel [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-intro-slt.pdf)]; _"Statistical Learning Theory: A Primer"_, Louis Wehenkel [[notes](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-primer.pdf)] |
+| February&nbsp;20 | TBD |
+| February&nbsp;27 | TBD |
 | March 5 | TBD | 
 | March 12 | TBD |
 | March 19 | TBD |
