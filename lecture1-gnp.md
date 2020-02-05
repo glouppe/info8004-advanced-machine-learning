@@ -11,12 +11,6 @@ in International Conference on Machine Learning 2018. [[Code](https://github.com
 Prof. Gilles Louppe<br>
 [g.louppe@uliege.be](g.louppe@uliege.be)
 
-???
-
-https://vimeo.com/312299226
-
-add more illustrations for why we want to obtain a probability distribution -> uncertainty
-
 ---
 
 # Supervised learning
@@ -100,7 +94,11 @@ Let us define a *stochastic process* as a random function $$f: \mathcal{X} \to \
 such that for each finite sequence $\mathbf{x}\_{1:N} = (\mathbf{x}\_1, \ldots, \mathbf{x}\_N)$, with $\mathbf{x}\_i \in \mathcal{X}$, we define the marginal joint distribution over function values
 $$Y\_{1:N} := (f(\mathbf{x}\_1), \ldots, f(\mathbf{x}\_N)).$$
 
-$\Rightarrow$ When these joint distributions are all defined as multivariate Gaussians, the resulting stochastic process is called a **Gaussian process**.
+---
+
+class: middle
+
+When these joint distributions are all defined as multivariate Gaussians, the resulting stochastic process is called a **Gaussian process**.
 
 ---
 
@@ -167,6 +165,10 @@ $$\begin{bmatrix} f(\mathbf{x}\_1)\\\\
 
 That is, we are marginalizing over the random variables not included in the target points.
 
+???
+
+We are marginalizing out infinitely many random variables!
+
 ---
 
 class: middle
@@ -222,6 +224,12 @@ $$k(\mathbf{x}\_i, \mathbf{x}\_j) = \sigma^2 \exp(-  \frac{||\mathbf{x}\_i - \ma
 Hyper-parameters:
 - The length scale $\ell$ describes the smoothness of the function.
 - The output variance $\sigma^2$ determines the average distance of the function away from its mean.
+
+???
+
+Intuition:
+- When $\ell$ is large, the argument tends to $0$, therefore the exponential tends to $1$. Elements are highly correlated!
+- When $\ell$ is small, the argument tends to $-\infty$, therefore the exponential tends $0$. Elements are not correlated!
 
 ---
 
@@ -285,6 +293,10 @@ $$
              &= \arg \min\_\theta - \frac{1}{2} \log \det K\_{BB;\theta} - \frac{1}{2} \mathbf{f}\_B^T K_{BB;\theta}^{-1} \mathbf{f}\_B + c
 \end{aligned}
 $$
+
+???
+
+This is just the same as maximum likelihood estimation on training data.
 
 ---
 
@@ -517,6 +529,18 @@ Do the experiments support the claims?
 .width-80.center[![](figures/lec1/cnp-np.png)]
 
 .footnote[Credits: Marta Garnelo et al., arXiv:[1807.01622](https://arxiv.org/abs/1807.01622).]
+
+---
+
+class: middle
+
+.center[
+<video loop autoplay controls preload="auto" height="400" width="650">
+  <source src="./figures/lec1/np.mp4" type="video/mp4">
+</video>
+]
+
+.footnote[Credits: [Kaspar Martens, 2018](https://kasparmartens.rbind.io/post/np/).]
 
 ---
 
