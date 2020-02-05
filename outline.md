@@ -11,12 +11,6 @@ Prof. Gilles Louppe<br>
 Prof. Louis Wehenkel<br>
 [l.wehenkel@uliege.be](l.wehenkel@uliege.be)
 
-
-
-???
-
-https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html projects
-
 ---
 
 class: middle, center
@@ -55,7 +49,6 @@ This course is given by:
     - introduce the necessary background,
     - present the paper,
     - discuss and criticize its content.
-    - selected people will challenge the paper.
 - Goal: training for research and development in machine learning.
 
 ---
