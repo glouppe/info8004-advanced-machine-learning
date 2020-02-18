@@ -3,7 +3,7 @@
 Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2020.
 
 - Instructors: Gilles Louppe ([g.louppe@uliege.be](mailto:g.louppe@uliege.be)), Louis Wehenkel ([l.wehenkel@uliege.be](mailto:l.wehenkel@uliege.be))
-- When: Spring 2020, Thursday 8:30AM
+- When: Spring 2020, Thursday 9:00 AM
 - Classroom: B28/R7
 
 ## Agenda
