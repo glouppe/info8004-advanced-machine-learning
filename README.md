@@ -10,11 +10,11 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2020.
 
 | Date | Topic |
 | --- | --- |
-| February&nbsp;6 | Outline [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/outline.pdf)]<br>Lecture 1: Gaussian and neural processes<br>- Paper: _"Conditional neural processes"_, Marta Garnelo et al, 2018 [[link](https://arxiv.org/abs/1807.01613)]<br>- Talk by Gilles Louppe [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-gnp.pdf)] |
+| February&nbsp;6 | Outline [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/outline.pdf)]<br>Lecture 1: Gaussian and neural processes<br>- Paper: _"Conditional neural processes"_, Garnelo et al, 2018 [[link](https://arxiv.org/abs/1807.01613)]<br>- Talk by Gilles Louppe [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-gnp.pdf)] |
 | February&nbsp;13 | Lecture 2: Statistical learning theory<br>- Tutorial & discussion: _"Statistical Learning Theory - a Hitchhiker's Guide"_, John Shawe-Taylor and Omar Rivasplata, NeurIPS 2018 [[video](https://www.youtube.com/watch?v=m8PLzDmW-TY), [slides](https://media.neurips.cc/Conferences/NIPS2018/Slides/stastical_learning_theory.pdf)].<br>- Additional resources: _"An introduction to Statistical Learning Theory"_, Louis Wehenkel [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-intro-slt.pdf)]; _"Statistical Learning Theory: A Primer"_, Louis Wehenkel [[notes](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-primer.pdf)] |
 | February&nbsp;20 | Lecture 3: Simulation-based inference and its applications<br>- Paper: _"The Frontier of Simulation-based Inference"_, Cranmer, Brehmer and Louppe, 2019 [[link](https://arxiv.org/abs/1911.01429)] <br>- Talk: _"Neural Likelihood-free Inference"_ by Gilles Louppe [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-lfi.pdf)]<br>- Talk _"Constraining the dark matter particle mass using machine learning and stellar streams"_ by Joeri Hermans [[slides](https://joerihermans.com/talks/talk-aml-stellar-streams/)] |
-| February&nbsp;27 | Lecture 4: The AI Debate |
-| March 5 | Lecture 5: Matthia Sabatteli, Antoine Wehenkel | 
+| February&nbsp;27 | Lecture 4: AAAI-20 Turing Award Winners keynote [[video](https://vimeo.com/390347111?ref)] |
+| March 5 | Lecture 5: Deep Learning<br>- Paper 1: _"The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks"_, Frankle and Carbin, 2018 [[link](https://arxiv.org/abs/1803.03635)]<br>- Talk by Matthia Sabatteli [slides]<br>- Paper 2: _"Normalizing Flows for Probabilistic Modeling and Inference"_, Papamakarios et al, 2019 [[link](https://arxiv.org/abs/1912.02762)]<br>- Talk by Antoine Wehenkel [slides] | 
 | March 12 | Lecture 6: Van Anh Huynh-Thu, Antonio Sutera |
 | March 19 | Lecture 7: Pierre Geurts |
 | March 26 | Lecture 8: Louis Wehenkel |
