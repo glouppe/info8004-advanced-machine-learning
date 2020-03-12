@@ -22,7 +22,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2020.
 | April 23 | Lecture 10: Pascal Leroy, Nicolas Vecoven |
 | April 30 | Student presentations 1 |
 | May 7 | Student presentations 2 |
-| May 15 | Student presentations 3 | 
+| May 14 | Student presentations 3 | 
 
 
 
@@ -31,7 +31,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2020.
 
 Deliverables:
 
-- a 30-minute lecture on the paper and its necessary background. This lecture will be presented to the class on April 30, May 7 or May 15.
+- a 30-minute lecture on the paper and its necessary background. This lecture will be presented to the class on April 30, May 7 or May 14.
 - a summary report (4-6 pages) summarizing the problem, the contribution of the paper and a critical discussion. Use the [`template-report.tex`](https://raw.githubusercontent.com/glouppe/info8004-advanced-machine-learning/master/template-report.tex) template (although feel free to adjust if necessary).
   
 Slides and reports should be submitted on the [Montefiore submission platform](https://submit.montefiore.ulg.ac.be/). This assignment will count for 40% of the final grade.
