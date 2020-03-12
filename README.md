@@ -36,6 +36,7 @@ Deliverables:
   
 Slides and reports should be submitted on the [Montefiore submission platform](https://submit.montefiore.ulg.ac.be/). This assignment will count for 40% of the final grade.
 
+The paper-group assignments are avalaible in [`readings.ipynb`](https://github.com/glouppe/info8004-advanced-machine-learning/blob/master/readings.ipynb).
 
 
 ## Exam
