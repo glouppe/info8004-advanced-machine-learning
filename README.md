@@ -18,13 +18,11 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2020.
 | March 12 | Lecture 6: Explainability<br>- Paper 1: _"Definitions, methods, and applications in interpretable machine learning"_, Murdoch et al, 2019 [[link](https://www.pnas.org/content/116/44/22071)]<br>- Talk by Van Anh Huynh-Thu [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/vahuynhthu-interpretability.pdf)] <br>- Paper 2: _"From local explanations to global understanding with explainable AI for trees"_, Lundberg et al, 2020 [[link](https://www.nature.com/articles/s42256-019-0138-9)]<br>- Talk by Antonio Sutera [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/asutera-shapley.pdf)]  |
 | March 19 | Lecture 7: Conformal prediction<br>- Paper 1: _"A tutorial on conformal prediction"_ , Shafer and Vovk, 2008 [[link](http://jmlr.csail.mit.edu/papers/volume9/shafer08a/shafer08a.pdf)]<br>- Paper 2: _"Inductive conformal prediction: theory and application to neural networks"_, Papadopoulos, 2008 [[link](https://www.researchgate.net/profile/Harris_Papadopoulos/publication/221787122_Inductive_Conformal_Prediction_Theory_and_Application_to_Neural_Networks/links/0912f505b43f73c40b000000.pdf)]<br>- Paper 3: _"Conformalized quantile regression"_, Romano et al, 2019 [[link](https://papers.nips.cc/paper/8613-conformalized-quantile-regression.pdf)] <br>- Talk by Pierre Geurts [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/pgeurts-cp.pdf)] |
 | March 26 | Lecture 8: Causality<br>- Paper: _"Causality. Chapter 1: Introduction to Probabilities, Graphs, and Causal Models"_, Judea Pearl, 2009 [[link](https://doi.org/10.1017/CBO9780511803161.003)]<br>- Talk by Louis Wehenkel [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-causality.pdf)] |
-| April 2 | Lecture 9: Jean-Michel Begon, Romain Mormont |
+| April 2 | Lecture 9: Out-of-distribution detection & transfer learning<br>- Paper 1: TBD<br>- Talk by Jean-Michel Begon<br>- Paper 2: _"Learning without forgetting"_, Zhizhong Li and Derek Hoiem, 2016 [[link](https://arxiv.org/pdf/1606.09282.pdf)] <br>- Talk by Romain Mormont [slides] |
 | April 23 | Lecture 10: Pascal Leroy, Nicolas Vecoven |
 | April 30 | Student presentations 1 |
 | May 7 | Student presentations 2 |
 | May 14 | Student presentations 3 | 
-
-
 
 
 ## Reading and presentation assignment
