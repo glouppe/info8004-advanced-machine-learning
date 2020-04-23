@@ -39,7 +39,8 @@ The paper-group assignments are avalaible in [`readings.ipynb`](https://github.c
 
 ## Exam
 
-TBD.
+See instructions sent by email.
+
 
 ## Archives
 
