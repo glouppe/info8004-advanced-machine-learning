@@ -8,7 +8,7 @@ Gaussian & Neural Processes
 in International Conference on Machine Learning 2018. [[Code](https://github.com/deepmind/neural-processes)]
 
 <br><br>
-Prof. Gilles Louppe<br>
+Gilles Louppe<br>
 [g.louppe@uliege.be](g.louppe@uliege.be)
 
 ---

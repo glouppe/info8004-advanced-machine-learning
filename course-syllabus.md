@@ -2,11 +2,14 @@ class: middle, center, title-slide
 
 # Advanced Machine Learning
 
-Course syllabus, Spring 2020
+Course syllabus
 
 <br><br>
+Prof. Pierre Geurts<br>
+[p.geurts@uliege.be](p.geurts@uliege.be)<br>
+
 Prof. Gilles Louppe<br>
-[g.louppe@uliege.be](g.louppe@uliege.be)<br><br>
+[g.louppe@uliege.be](g.louppe@uliege.be)<br>
 
 Prof. Louis Wehenkel<br>
 [l.wehenkel@uliege.be](l.wehenkel@uliege.be)
@@ -15,27 +18,32 @@ Prof. Louis Wehenkel<br>
 
 class: middle, center
 
-.italic[To know, read; to learn, write; to master, teach.]
+.italic[To know, read.
+
+To learn, write.
+
+To master, teach.]
 
 (Hindu proverb)
 
 ---
 
-# Logistics
+# Us
 
 This course is given by:
-- Prof. Gilles Louppe ([g.louppe@uliege.be](mailto:g.louppe@uliege.be))
-- Prof. Louis Wehenkel ([l.wehenkel@uliege.be](l.wehenkel@uliege.be))
-- (Prof. Pierre Geurts ([p.geurts@uliege.be](p.geurts@uliege.be)))
+- Pierre Geurts ([p.geurts@uliege.be](p.geurts@uliege.be))
+- Gilles Louppe ([g.louppe@uliege.be](mailto:g.louppe@uliege.be))
+- Louis Wehenkel ([l.wehenkel@uliege.be](l.wehenkel@uliege.be))
 - Researchers from the department
 - ... and you!
 
 <br>
 
 .center[
-.circle[![](figures/outline/gilles.jpg)] &nbsp;
-.circle[![](figures/outline/louis.jpg)] &nbsp;
-.circle[![](figures/outline/pierre.jpg)] &nbsp;
+.circle.width-20[![](figures/outline/pierre.jpg)] &nbsp;
+.circle.width-20[![](figures/outline/gilles.jpg)] &nbsp;
+.circle.width-20[![](figures/outline/louis.jpg)] 
+
 ]
 
 ---
