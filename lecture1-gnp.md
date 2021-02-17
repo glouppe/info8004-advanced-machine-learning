@@ -201,7 +201,7 @@ class: middle
 
 # Kernels
 
-The kernel or covariance function $k(\cdot,\cdot)$ encodes the covariance between pairs of random variables $\mathbf{x}_i, \mathbf{x}_j$.
+The kernel or covariance function $k(\cdot,\cdot)$ encodes the covariance between pairs of random variables $f(\mathbf{x}_i), f(\mathbf{x}_j)$.
 It must be positive semi-definite and symmetric.
 
 Popular examples include:
