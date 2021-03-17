@@ -16,9 +16,9 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2021.
 | February&nbsp;25 | Lecture 4: Geometric Deep Learning<br>- Tutorial: _"Geometric Deep Learning"_, Michael Bronstein, MLSS 2020 [[video](https://www.youtube.com/watch?v=8kTxTX0eBRA)] [[slides](https://drive.google.com/file/d/14H8KXBpkJBlqINTLOTvlTRMh-WLkGo4-/view)]<br>- Paper: _"Geometric deep learning: going beyond Euclidean data"_, Bronstein et al, 2016 [[link](https://arxiv.org/pdf/1611.08097.pdf)] |
 | March 4 | Lecture 5: Simulation-based inference (Gilles Louppe)<br>- Paper: _"The Frontier of Simulation-based Inference"_, Cranmer, Brehmer and Louppe, 2019 [[link](https://arxiv.org/abs/1911.01429)] <br>- Talk [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-sbi.pdf)] | 
 | March 11 | Lecture 6: Causality (Louis Wehenkel)<br>- Paper: _"Causality. Chapter 1: Introduction to Probabilities, Graphs, and Causal Models"_, Judea Pearl, 2009 [[link](https://doi.org/10.1017/CBO9780511803161.003)]<br>- Talk [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-causality.pdf)] | |
-| March 18 | Lecture 7: TBD (Matthia Sabatelli) |
+| March 18 | Lecture 7: Upside-Down Reinforcement Learning (Matthia Sabatelli)<br>- Paper 1: _"Reinforcement Learning Upside Down"_, Juergen Schmidhuber, 2019 [[link](https://arxiv.org/abs/1912.02875)]<br>- Paper 2: _"Training Agents using Upside-Down Reinforcement Learning"_, Rupesh Kumar Srivastava et al, 2019 [[link](https://arxiv.org/abs/1912.02877)] <br>- Talk [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/msabatelli-rl-upsidedown.pdf)] |
 | March 25 | Lecture 8: Normalizing Flows (Antoine Wehenkel)<br>- Paper: TBD<br>- Talk [slides] |
-| April 1 | Lecture 9: Ethics in AI (Géraldine Brieven, Accenture)<br>- Talk [slides] |
+| April 1 | Lecture 9: Responsible AI (Adeline Decuyper, Accenture) |
 | April 15 | Student presentations 1 |
 | April 22 | Student presentations 2 |
 | April 29 | Student presentations 3 |
