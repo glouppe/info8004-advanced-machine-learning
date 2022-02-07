@@ -521,9 +521,16 @@ Do the experiments support the claims?
 
 ---
 
-# Neural Processes
+class: middle
+count: false
 
-<br>
+# Follow-ups
+
+---
+
+class: middle
+
+## Neural Processes (Garnelo et al, 2018)
 
 .width-60.center[![](figures/lec1/np.png)]
 .width-80.center[![](figures/lec1/cnp-np.png)]
@@ -550,7 +557,19 @@ class: middle
 
 ---
 
-# Generative Query Networks
+class: middle
+
+## Attentive neural processes (Kim et al, 2019)
+
+.width-100.center[![](figures/lec1/anp.png)]
+
+.footnote[Credits: Kim et al., arXiv:[1901.05761](https://arxiv.org/abs/1901.05761).]
+
+---
+
+class: middle
+
+## Generative Query Networks (Eslami et al, 2018)
 
 .width-60.center[![](figures/lec1/gqn.png)]
 

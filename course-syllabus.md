@@ -79,17 +79,21 @@ A couple of lectures will be organized as seminars:
 
 ---
 
-# Materials
+# Requirements
 
-Papers and slides are available at [github.com/glouppe/info8004-advanced-machine-learning](https://github.com/glouppe/info8004-advanced-machine-learning).
-- Slides posted online the day before the lesson (hopefully).
-- Papers announced ~1 week before the lectures.
+We strongly recommend to follow this course only **after** having followed both:
+
+- ELEN0062 Introduction to machine learning
+- INFO8010 Deep learning
 
 ---
 
-# Agenda
+# Course hub
 
-See the course [web page](https://github.com/glouppe/info8004-advanced-machine-learning) (tentative and subject to change).
+All important information about the course is available on the course web page [github.com/glouppe/info8004-advanced-machine-learning](https://github.com/glouppe/info8004-advanced-machine-learning).
+- Schedule
+- Slides and materials
+- Papers to read.
 
 ---
 
