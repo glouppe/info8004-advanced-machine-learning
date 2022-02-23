@@ -53,9 +53,10 @@ This course is given by:
 - This course is organized as a **journal club**.
 - Reading and presentation of recent machine learning research papers.
 - Every week, one of us will:
-    - select a research paper,
-    - introduce the necessary background,
-    - present the paper,
+    - select a research paper
+    - introduce the necessary background
+    - present the paper
+      - or watch a recorded talk from the authors
     - discuss and criticize its content.
 - Goal: training for research and development in machine learning.
 
@@ -101,7 +102,7 @@ All important information about the course is available on the course web page [
 
 - Read a selected machine learning paper.
 - Prepare a 30-minute lecture, covering the necessary background and discussing the paper.
-- Short summary report.
+- Write a short summary report.
 
 More details to be announced later.
 
