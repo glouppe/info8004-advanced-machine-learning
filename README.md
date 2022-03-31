@@ -17,7 +17,7 @@ Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2022.
 | March 10 | Lecture 5: Simulation-based inference (Gilles Louppe)<br>- Paper 1: _"The frontier of simulation-based inference"_, Cranmer, Brehmer and Louppe, 2020 [[link](https://www.pnas.org/doi/pdf/10.1073/pnas.1912789117)] [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-sbi.pdf)]<br>- Paper 2: _"Simulation-based Bayesian inference for multi-fingered robotic grasping"_ [[link](https://arxiv.org/abs/2109.14275)] (Talk by Norman Marlier)<br>- Paper 3: _"Averting A Crisis In Simulation-Based Inference"_ [[link](https://arxiv.org/abs/2110.06581)] (Talk by Arnaud Delaunoy) |
 | March 17 | Lecture 6: Causality (Louis Wehenkel)<br>- Paper: _"Causality. Chapter 1: Introduction to Probabilities, Graphs, and Causal Models"_, Judea Pearl, 2009 [[link](https://doi.org/10.1017/CBO9780511803161.003)]<br>- Paper: _"Causal Inference in AI Education: A Primer"_, Forney and Mueller, 2021 [[link](https://ftp.cs.ucla.edu/pub/stat_ser/r509.pdf)]<br>- Talk [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-causality.pdf)] |
 | March 24 | Lecture 7: Explainable machine learning (Pierre Geurts)<br>- Tutorial: _"Explaining Machine Learning Predictions"_, Lakkaraju, Adebayo, Singh, 2020-2021 [[link](https://explainml-tutorial.github.io/)]<br>- Book: _"Interpretable Machine Learning"_, Christoph Molnar, 2022 [[link](https://christophm.github.io/interpretable-ml-book/)] |
-| March 31<br>**10:00 AM** | Lecture 8: Deep Reinforcement Learning (Matthia Sabatelli) |
+| March 31 | Lecture 8: Deep Reinforcement Learning (Matthia Sabatelli)<br>- Talk [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/msabatelli-drl.pdf)] |
 | April 21 | _No lecture_ |
 | April 28 | Student presentations 1 |
 | May 5 | Student presentations 2 |
@@ -30,11 +30,9 @@ Deliverable: a 30-minute lecture on the paper and its necessary background. This
 
 Slides should be submitted on the [Montefiore submission platform](https://submit.montefiore.ulg.ac.be/). This assignment will count for 40% of the final grade.
 
-
 ## Exam
 
 TBD.
-
 
 ## Archives
 
