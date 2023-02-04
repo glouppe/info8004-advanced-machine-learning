@@ -3,7 +3,7 @@
 Lectures for INFO8004 - Advanced Machine Learning, ULiège, Spring 2023.
 
 - Instructors: Pierre Geurts ([p.geurts@uliege.be](mailto:p.geurts@uliege.be)), Gilles Louppe ([g.louppe@uliege.be](mailto:g.louppe@uliege.be)), Louis Wehenkel ([l.wehenkel@uliege.be](mailto:l.wehenkel@uliege.be))
-- When: Spring 2022, Thursday 9:00 AM
+- When: Spring 2023, Thursday 9:00 AM
 - Classroom: R7 / B28
 
 ## Agenda
