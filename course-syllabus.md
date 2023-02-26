@@ -102,7 +102,6 @@ All important information about the course is available on the course web page [
 
 - Read a selected machine learning paper.
 - Prepare a 30-minute lecture, covering the necessary background and discussing the paper.
-- Write a short summary report.
 
 More details to be announced later.
 
