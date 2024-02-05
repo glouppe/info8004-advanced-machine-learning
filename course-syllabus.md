@@ -30,7 +30,7 @@ To master, teach.]
 
 # Us
 
-This course is given by:
+Instructors:
 - Pierre Geurts ([p.geurts@uliege.be](p.geurts@uliege.be))
 - Gilles Louppe ([g.louppe@uliege.be](mailto:g.louppe@uliege.be))
 - Louis Wehenkel ([l.wehenkel@uliege.be](l.wehenkel@uliege.be))
@@ -82,7 +82,7 @@ A couple of lectures will be organized as seminars:
 
 # Requirements
 
-We strongly recommend to follow this course only **after** having followed both:
+We strongly recommend to follow this course only .bold[after] having followed both:
 
 - ELEN0062 Introduction to machine learning
 - INFO8010 Deep learning
@@ -91,9 +91,9 @@ We strongly recommend to follow this course only **after** having followed both:
 
 # Course hub
 
-All important information about the course is available on the course web page [github.com/glouppe/info8004-advanced-machine-learning](https://github.com/glouppe/info8004-advanced-machine-learning).
-- Schedule
-- Slides and materials
+All important information about the course is available on the course web page [github.com/glouppe/info8004-advanced-machine-learning](https://github.com/glouppe/info8004-advanced-machine-learning):
+- Schedule,
+- Slides and materials,
 - Papers to read.
 
 ---

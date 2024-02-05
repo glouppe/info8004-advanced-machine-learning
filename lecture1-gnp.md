@@ -11,6 +11,10 @@ in International Conference on Machine Learning 2018. [[Code](https://github.com
 Gilles Louppe<br>
 [g.louppe@uliege.be](g.louppe@uliege.be)
 
+???
+
+Follow-up: implicit neural representations
+
 ---
 
 # Supervised learning
