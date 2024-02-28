@@ -417,9 +417,8 @@ class: middle
 
 ## Exchangeability
 
-A CNP is permutation invariant in observations and targets.
-- For observations, permutation invariance is guaranteed through the symmetric aggregator.
-- For targets, permutation invariance is guaranteed through the factored structure of $Q\_\theta$.
+- A CNP is permutation invariant in the observations, as the aggregator is symmetric.
+- A CNP is permutation equivariant in the targets, as the factored structure of $Q\_\theta$ enforces permutation equivariance.
 
 ---
 

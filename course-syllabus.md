@@ -16,18 +16,6 @@ Prof. Louis Wehenkel<br>
 
 ---
 
-class: middle, center
-
-.italic[To know, read.
-
-To learn, write.
-
-To master, teach.]
-
-(Hindu proverb)
-
----
-
 # Us
 
 Instructors:
@@ -48,12 +36,24 @@ Instructors:
 
 ---
 
+class: middle, center
+
+.italic[To know, read.
+
+To learn, write.
+
+To master, teach.]
+
+(Hindu proverb)
+
+---
+
 # Lectures
 
 - This course is organized as a **journal club**.
-- Reading and presentation of recent machine learning research papers.
+- Reading and presentation of recent machine learning research papers or topics.
 - Every week, one of us will:
-    - select a research paper
+    - select a research paper or topic
     - introduce the necessary background
     - present the paper
       - or watch a recorded talk from the authors
