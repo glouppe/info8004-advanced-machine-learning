@@ -16,11 +16,11 @@ Lectures for INFO8004 Advanced Machine Learning, ULiège, Spring 2024.
 | February 29 | Lecture 4: Simulation-based inference (Gilles Louppe) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-sbi.pdf)]<br>- Paper: _"The frontier of simulation-based inference"_, Cranmer, Brehmer and Louppe, 2020 [[link](https://www.pnas.org/doi/pdf/10.1073/pnas.1912789117)] |
 | March 7 | Lecture 5: Explainable machine learning (Pierre Geurts) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/explaining-ml.pdf)]<br>- Tutorial: _"Explaining Machine Learning Predictions"_, Lakkaraju, Adebayo, Singh, 2020-2021 [[link](https://explainml-tutorial.github.io/)]<br>- Book: _"Interpretable Machine Learning"_, Christoph Molnar, 2022 [[link](https://christophm.github.io/interpretable-ml-book/)] |
 | March 14 | Lecture 6: Causality (Louis Wehenkel) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-causality.pdf)]<br>- Paper: _"Causality. Chapter 1: Introduction to Probabilities, Graphs, and Causal Models"_, Judea Pearl, 2009 [[link](https://doi.org/10.1017/CBO9780511803161.003)]<br>- Paper: _"Causal Inference in AI Education: A Primer"_, Forney and Mueller, 2021 [[link](https://ftp.cs.ucla.edu/pub/stat_ser/r509.pdf)] |
-| March 21 | Lecture 7: Neural operators (Omer Rochman)<br>- Paper: _"Fourier Neural Operator for Parametric Partial Differential Equations"_, Li et al, 2020 [[link](https://arxiv.org/abs/2010.08895)] |
-| March 28 | Lecture 8: Latent diffusion models (Gilles Louppe) |
-| April 4 | Student presentations 1 |
-| April 11 | Student presentations 2 |
-| April 18 | Student presentations 3 |
+| March 21 | Lecture 7: Neural operators (Omer Rochman)<br>- Paper: _"Fourier Neural Operator for Parametric Partial Differential Equations"_, Li et al, 2020 [[link](https://arxiv.org/abs/2010.08895), [annotated paper](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/orochman-fno-annotated.pdf))] |
+| March 28 | Lecture 8: Latent diffusion models (Gilles Louppe) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-lvm.pdf)]<br>- Tutorial: _"Latent Diffusion Models: Is the Generative AI Revolution Happening in Latent Space?"_, Kreis, Gao, and Vahdat [[video](https://nips.cc/virtual/2023/tutorial/73957)]  |
+| April 4 | _No class_ |
+| April 11 | Student presentations 1 |
+| April 18 | Student presentations 2 |
 
 
 ## Reading and presentation assignment
