@@ -18,7 +18,7 @@ Lectures for INFO8004 Advanced Machine Learning, ULiège, Spring 2025.
 | March 13 | Lecture 5: Explainable machine learning (Pierre Geurts) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/explaining-ml.pdf)]<br>- Tutorial: _"Explaining Machine Learning Predictions"_, Lakkaraju, Adebayo, Singh, 2020-2021 [[link](https://explainml-tutorial.github.io/)]<br>- Book: _"Interpretable Machine Learning"_, Christoph Molnar, 2022 [[link](https://christophm.github.io/interpretable-ml-book/)] |
 | March 20 | Lecture 6: Causality (Louis Wehenkel) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-causality.pdf)]<br>- Paper: _"Causality. Chapter 1: Introduction to Probabilities, Graphs, and Causal Models"_, Judea Pearl, 2009 [[link](https://doi.org/10.1017/CBO9780511803161.003)]<br>- Paper: _"Causal Inference in AI Education: A Primer"_, Forney and Mueller, 2021 [[link](https://ftp.cs.ucla.edu/pub/stat_ser/r509.pdf)] |
 | March 27 | Lecture 7: AlphaFold (Gilles Louppe) |
-| April 3 | TBD |
+| April 3 | Lecture 8: The dangers of AI (TBD) |
 | April 10 | TBD |
 | April 17 | TBD |
 | May 8 | TBD |
