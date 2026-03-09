@@ -15,10 +15,10 @@ Lectures for INFO8004 Advanced Machine Learning, ULiège, Spring 2026.
 | February&nbsp;19 | Lecture 2: Gaussian and neural processes (Gilles Louppe) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-gnp.pdf)] <br>- Paper: _"Conditional neural processes"_, Garnelo et al, 2018 [[link](https://arxiv.org/abs/1807.01613)] |
 | February&nbsp;26 | Lecture 3: Statistical learning theory (Louis Wehenkel) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-intro-slt.pdf)]<br>- Tutorial & discussion: _"Statistical Learning Theory - a Hitchhiker's Guide"_, John Shawe-Taylor and Omar Rivasplata, NeurIPS 2018 [[video](https://www.youtube.com/watch?v=m8PLzDmW-TY), [slides](https://media.neurips.cc/Conferences/NIPS2018/Slides/stastical_learning_theory.pdf)].<br>-Notes: _"Statistical Learning Theory: A Primer"_, Louis Wehenkel [[notes](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-primer.pdf)] |
 | March 5 | Lecture 4: An introduction to simulation-based inference (Gilles Louppe) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/glouppe-sbi.pdf)]<br>- Paper: _"The frontier of simulation-based inference"_, Cranmer, Brehmer and Louppe, 2020 [[link](https://www.pnas.org/doi/pdf/10.1073/pnas.1912789117)] |
-| March 12 | Lecture 5: TBD (Pierre Geurts) |
-| March 19 | Lecture 6: Causality (Louis Wehenkel) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-causality.pdf)]<br>- Paper: _"Causality. Chapter 1: Introduction to Probabilities, Graphs, and Causal Models"_, Judea Pearl, 2009 [[link](https://doi.org/10.1017/CBO9780511803161.003)]<br>- Paper: _"Causal Inference in AI Education: A Primer"_, Forney and Mueller, 2021 [[link](https://ftp.cs.ucla.edu/pub/stat_ser/r509.pdf)] |
-| March 26 | TBD |
-| April 2 | TBD |
+| March 12 | _No class_ (general strike) |
+| March 19 | Lecture 5: Causality (Louis Wehenkel) [[slides](https://glouppe.github.io/info8004-advanced-machine-learning/pdf/lwehenkel-causality.pdf)]<br>- Paper: _"Causality. Chapter 1: Introduction to Probabilities, Graphs, and Causal Models"_, Judea Pearl, 2009 [[link](https://doi.org/10.1017/CBO9780511803161.003)]<br>- Paper: _"Causal Inference in AI Education: A Primer"_, Forney and Mueller, 2021 [[link](https://ftp.cs.ucla.edu/pub/stat_ser/r509.pdf)] |
+| March 26 | Lecture 6: TBD (Pierre Geurts) |
+| April 2 | Lecture 7: TBD (Gérome Andry) |
 | April 9 | Student presentations |
 | April 16 | Student presentations |
 | May 7 | _No class_ |
